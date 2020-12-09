@@ -1,4 +1,4 @@
-### Hi there 👋
+### console.log('¡Hello World! 👋')
 
 <!--
 **MachinEmmus/MachinEmmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
