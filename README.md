@@ -9,7 +9,7 @@ Also Professional Valorant Player <img src="https://media.giphy.com/media/m3N5Pp
 [![Linkedin Badge](https://img.shields.io/badge/-Emmanuel%20Monsalve-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/emmanuelmonsalve/)](https://www.linkedin.com/in/emmanuelmonsalve/)
 [![GitHub followers](https://img.shields.io/github/followers/MachinEmmus?label=Follow&style=social)](https://github.com/MachinEmmus/?tab=follow)
 [![Twitter Badge](http://img.shields.io/badge/-@Emmusmp-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/Emmusmp)](https://twitter.com/Emmusmp) 
-[![Instagram Badge](https://img.shields.io/badge/-Emmusmp-blue?style=social&logo=Instagram&link=https://www.instagram.com/Emmusmp/)](https://www.instagram.com/kingsmanvk/) 
+[![Instagram Badge](https://img.shields.io/badge/-Emmusmp-blue?style=social&logo=Instagram&link=https://www.instagram.com/Emmusmp/)](https://www.instagram.com/Emmusmp/) 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
