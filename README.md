@@ -2,8 +2,7 @@
 <img src="https://media.giphy.com/media/8lJSORUJrTcjItDgGd/giphy.gif" width="50"></h2>
 
 <img align='right' src="https://media.giphy.com/media/kuf7g0KM5UMBW/giphy.gif" width="230">
-<p><em>Software Enginner Student at <a href="https://www.unaula.edu.co">Universidad Autonoma LatinoAmericana</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br></br>FullStack Software Developer at <a href="https://www.holbertoncolombia.com">Holberton School</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-Also Professional Valorant Player <img src="https://media.giphy.com/media/ZO8LThom8RBqME2Mt8/giphy.gif" width="30"> 
+<p><em>Software Enginner Student at <a href="https://www.unaula.edu.co">Universidad Autonoma LatinoAmericana</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br></br>FullStack Software Developer at <a href="https://www.holbertoncolombia.com">Holberton School</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br> Also Professional Valorant Player <img src="https://media.giphy.com/media/ZO8LThom8RBqME2Mt8/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Emmanuel%20Monsalve-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/emmanuelmonsalve/)](https://www.linkedin.com/in/emmanuelmonsalve/)
